@@ -1,2 +1,2 @@
 # callisto-sync
-Deno scripts to sync data between e-Callisto and NeoCallisto
+Node.js scripts to sync data between e-Callisto and NeoCallisto
