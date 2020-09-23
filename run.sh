@@ -1,1 +1,0 @@
-deno run --allow-net=soleil.i4ds.ch index.ts
